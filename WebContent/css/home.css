@@ -1,0 +1,33 @@
+.unlist {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background:transparent;
+  text-align: center;
+
+}
+
+
+.list  {
+  
+  display: inline-block;
+  
+}
+.active{
+	background-color: #ffc168;
+}
+.list a:hover {
+  background-color: #ffc168;
+  color:black;
+}
+
+.list a {
+  display: block;
+  color: white;
+  font-size: 18px;
+  text-align: center;
+  padding: 14px 36px;
+  text-decoration: none;
+  
+}
