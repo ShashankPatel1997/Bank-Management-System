@@ -1,28 +1,28 @@
 # Bank-Management-System
 
-Welcome Page
+##Welcome Page
 ![Image description](https://github.com/ShashankPatel1997/Bank-Management-System/blob/master/WebContent/images/1.PNG)\
-Login Page
+##Login Page
 ![Image description](https://github.com/ShashankPatel1997/Bank-Management-System/blob/master/WebContent/images/2.PNG)\
-Home Page
+##Home Page
 ![Image description](https://github.com/ShashankPatel1997/Bank-Management-System/blob/master/WebContent/images/3.PNG)\
-Check Balance
+##Check Balance
 ![Image description](https://github.com/ShashankPatel1997/Bank-Management-System/blob/master/WebContent/images/4.PNG)\
-Money Transfer
+##Money Transfer
 ![Image description](https://github.com/ShashankPatel1997/Bank-Management-System/blob/master/WebContent/images/5.PNG)\
-Apply Loan
+##Apply Loan
 ![Image description](https://github.com/ShashankPatel1997/Bank-Management-System/blob/master/WebContent/images/6.PNG)\
-Get Statement
+##Get Statement
 ![Image description](https://github.com/ShashankPatel1997/Bank-Management-System/blob/master/WebContent/images/7.PNG)\
-Change Password
+##Change Password
 ![Image description](https://github.com/ShashankPatel1997/Bank-Management-System/blob/master/WebContent/images/8.PNG)\
-Statistical Graph
+##Statistical Graph
 ![Image description](https://github.com/ShashankPatel1997/Bank-Management-System/blob/master/WebContent/images/9.PNG)\
-Forgot pass
+##Forgot pass
 ![Image description](https://github.com/ShashankPatel1997/Bank-Management-System/blob/master/WebContent/images/10.PNG)\
 
 ![Image description](https://github.com/ShashankPatel1997/Bank-Management-System/blob/master/WebContent/images/11.PNG)\
+##Mail
 ![Image description](https://github.com/ShashankPatel1997/Bank-Management-System/blob/master/WebContent/images/12.PNG)\
-Mail
 ![Image description](https://github.com/ShashankPatel1997/Bank-Management-System/blob/master/WebContent/images/13.PNG)\
 
